@@ -1,8 +1,1 @@
-- 👋 Hi, I’m  Maurice
-- 👀 I’m interested in information security
-- 🌱 I’m currently learning Python and doing a bootcamp on information security.
-
-<!---
-Aumenathil/Aumenathil is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+This is Maurice Grayson's repository. I'm a newbie trying to learn IT, and how to do things in a better way. This repository is intended to help me remember important and useful tools and scripts.
