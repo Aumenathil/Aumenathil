@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Aumenathil, aka Maurice
+- 👋 Hi, I’m  Maurice
 - 👀 I’m interested in information security
 - 🌱 I’m currently learning Python and doing a bootcamp on information security.
 
