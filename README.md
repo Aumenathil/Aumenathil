@@ -1,5 +1,5 @@
-whoami
+whoami:
 Maurice Grayson. 
 
-pwd
+pwd:
 This is meant for sharing purposes. Thank you.
