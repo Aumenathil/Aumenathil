@@ -1,12 +1,17 @@
-whoami:
-Maurice Grayson. 
+<h1 align="center">Hi 👋, I'm Maurice Grayson</h1>
+<h3 align="center">A passionate IT Security Professional.</h3>
 
-pwd:
-This is meant for sharing and educational purposes. 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aumenathil&label=Profile%20views&color=0e75b6&style=flat" alt="aumenathil" /> </p>
 
+- 🌱 I’m currently learning **Python**
 
-I've tried to make this entire page public so that anyone can access it. I believe knowledge is to be shared, and although I've spent
-much much money on my own education up to Information Technology, I do not necessarily believe that knowledge should be guarded
-or kept away from those that seek to know. I majored in Philosophy because I have a curious mind, and continue to ask why and how. 
+- 📫 How to reach me **Java.maurice@gmail.com**
 
-So, hopefully something on this page will help someone who might want to know how to do something on the computer a little faster, or a little more secure.
+- ⚡ Fun fact **I used to teach Sunday School.**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.vagrantup.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40" height="40"/> </a> </p>
