@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aumenathil&label=Profile%20views&color=0e75b6&style=flat" alt="aumenathil" /> </p>
 
-- 🌱 I’m currently studying **Subneting**
+-  I’m currently studying **A+**
 
 - 📫 How to reach me **Maurice.Grayson@iCloud.com**
 
